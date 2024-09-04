@@ -1,0 +1,1 @@
+Created this project in my sophomore year for application for the project based Computer Science program. Code is very simple and easy to follow, basically the sensor checks if the soil is wet and if it is dry it will water the plant until the soil is wet. I would like to add some other elements but have been busy with other projects.
